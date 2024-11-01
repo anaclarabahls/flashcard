@@ -28,6 +28,7 @@ body{
         height: 100%;
         transform-style: preserve-3d;
         transition: transform 300ms ease-in-out;
+        /*background-color: aquamarine;*/
     }
     
     .cartao__conteudo h3 {
